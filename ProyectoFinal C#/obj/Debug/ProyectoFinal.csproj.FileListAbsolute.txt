@@ -1,0 +1,27 @@
+C:\Users\Cesar Cerda\Desktop\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Cesar Cerda\Desktop\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Cesar Cerda\Desktop\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Cesar Cerda\Desktop\ProyectoFinal\bin\Debug\NCalc.dll
+C:\Users\Cesar Cerda\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Cesar Cerda\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Cerda\Desktop\ProyectoFinal\obj\Debug\Proyecto.489DB05A.Up2Date
+C:\Users\Cesar Cerda\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Cesar Cerda\Desktop\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\chamo\OneDrive\Escritorio\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\chamo\OneDrive\Escritorio\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\chamo\OneDrive\Escritorio\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\chamo\OneDrive\Escritorio\ProyectoFinal\bin\Debug\NCalc.dll
+C:\Users\chamo\OneDrive\Escritorio\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\chamo\OneDrive\Escritorio\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\chamo\OneDrive\Escritorio\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\chamo\OneDrive\Escritorio\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\chamo\OneDrive\Escritorio\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\chamo\OneDrive\Documentos\UNI 2024\Metodo Numerico\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\chamo\OneDrive\Documentos\UNI 2024\Metodo Numerico\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\chamo\OneDrive\Documentos\UNI 2024\Metodo Numerico\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\chamo\OneDrive\Documentos\UNI 2024\Metodo Numerico\ProyectoFinal\bin\Debug\NCalc.dll
+C:\Users\chamo\OneDrive\Documentos\UNI 2024\Metodo Numerico\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\chamo\OneDrive\Documentos\UNI 2024\Metodo Numerico\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\chamo\OneDrive\Documentos\UNI 2024\Metodo Numerico\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\chamo\OneDrive\Documentos\UNI 2024\Metodo Numerico\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\chamo\OneDrive\Documentos\UNI 2024\Metodo Numerico\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
